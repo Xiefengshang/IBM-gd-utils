@@ -1,4 +1,4 @@
-name: IBM Cloud Auto Install
+name: IBM Cloud Auto Install1
 
 on:
   workflow_dispatch:
