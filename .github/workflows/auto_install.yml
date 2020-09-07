@@ -3,7 +3,7 @@ name: IBM Cloud Auto Install
 on:
   workflow_dispatch:
     inputs:
-
+1
 jobs:
   ibm-cloud-install:
     runs-on: ubuntu-latest
